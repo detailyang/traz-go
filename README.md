@@ -3,6 +3,7 @@
     <span style="font-size:larger;">traz-go</span>
   </b>
   <br />
+   <a href="https://github.com/detailyang/traz-go"><img src="https://github.com/detailyang/traz-go/workflows/Go/badge.svg" /></a>
    <br />
    <b>traz-go transforms differernt data source to the go struct which is inspired from <a href="https://github.com/koding/multiconfig">https://github.com/koding/multiconfig</a></b>
 </p>
